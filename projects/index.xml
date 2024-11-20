@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Poornima Prakash Kaushik</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://poornima2605.github.io/projects/</link>
     <description>Recent content in Projects on Poornima Prakash Kaushik</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://poornima2605.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DodeLido Referee- A Deep Learning Project</title>
-      <link>http://localhost:1313/projects/dodelido/</link>
+      <link>https://poornima2605.github.io/projects/dodelido/</link>
       <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/dodelido/</guid>
+      <guid>https://poornima2605.github.io/projects/dodelido/</guid>
       <description>DodeLido Referee- A Deep Learning Project DodeLido is an amazing card game that keeps you on your toes.&#xA;The game is simple, each player will put one card in turn in a triangle format and then the player has to call out what is the majority, either the colour or the animal and in case there is a clash, the player has to call DodeLido. The player who finishes all the cards from their hand, Wins!</description>
     </item>
   </channel>
